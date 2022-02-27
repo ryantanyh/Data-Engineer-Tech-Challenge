@@ -5,7 +5,7 @@ Airflow is used to implement the scheduling component.
 A dataprocessing.py containing the codes from the uploaded data engineering tech challenge section 1.ipynb file will be scheduled in airflow at 1am to process the datafiles on a daily basis. 
 
 **Section 2**
-I have provided the sql file containing the create table statements and queries for the requested information. I am unable to provide the dockerfile as I am still unsure of how to set the postgres database up in the docker desktop application. Hope the create table statements are sufficient.
+I have provided the sql file containing the create table statements and queries for the requested information. I have also attempted to create a dockerfile.
 
 **Section 3**
 A system architecture diagram on Powerpoint shows the system design for processing and storing images. Microsoft Azure Cloud provider is used for this example. The main application used is Azure HDInsights which contains Kafka to stream the images.
