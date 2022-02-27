@@ -9,3 +9,6 @@ A system architecture diagram on Powerpoint shows the system design for processi
 
 **Section 4**
 The chart in the "Singapore Monthly COVID Chart.png" screenshot shows the monthly covid case counts in Singapore. Codes for the api call and data processing for the chart are in the "Section 4 Charts and APIs.pdf" pdf. 
+
+**Section 5**
+The machine learning models consisting of Decision Tree, Logistic Regression and Support Vector Model predicts that the car price is low with the given parameters.
